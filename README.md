@@ -26,8 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/Rakura-cloud/Rakura-cloud/blob/output/snake.svg" alt="Snake animation" />
-
-###
